@@ -1,2 +1,2 @@
-def is_prime?
+def is_prime? (integer)
 end
